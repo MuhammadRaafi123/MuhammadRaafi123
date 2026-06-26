@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
 <a href="https://github.com/MuhammadRaafi123">
   <img src="https://komarev.com/ghpvc/?username=MuhammadRaafi123&label=Profile+Views&color=6366f1&style=for-the-badge&labelColor=0d0d14" alt="Profile Views"/>
 </a>
@@ -22,63 +21,57 @@
 
 ---
 
-<!-- About Me Section -->
-<div align="center">
-
 ## 🌌 About Me
 
-</div>
+Hey! Nama aku **Muhammad Nur Raafi Adli**, biasa dipanggil **Raafi** 👋
 
-```typescript
-const raafi = {
-  name: "Muhammad Nur Raafi Adli",
-  nickname: "Raafi",
-  status: "SMK Grade 12 🎓",
-  role: "Frontend Developer",
-  location: "Indonesia 🇮🇩",
-  currentlyLearning: ["Next.js", "TypeScript", "UI/UX Design"],
-  funFact: "Debugging is like being the detective in a crime movie where you're also the murderer 🕵️",
-  motto: "Still Learning, Still Grinding 🔥",
-  openToWork: true,
-};
-```
+Aku seorang **Frontend Developer** yang masih duduk di bangku **SMK kelas 12** di Indonesia . Dunia coding buat aku excited karena bisa nyiptain sesuatu dari nol, dari yang tadinya cuma ide di kepala, jadi tampilan nyata di browser.
+
+Sekarang lagi fokus ngulik **Next.js**, **TypeScript**, dan **UI/UX Design** supaya bisa bikin web yang nggak cuma jalan, tapi juga enak dilihat dan nyaman dipakai. Masih banyak yang harus dipelajari, tapi *that's the fun part* 🚀
+
+> *"Still Learning, Still Grinding."* — motto hidupku sehari-hari 🔥
 
 <br/>
 
 ---
 
-<!-- Tech Stack Section -->
-<div align="center">
-
 ## 🛠️ Tech Stack
 
-</div>
-
+<details>
+<summary><b>🔤 Programming Languages</b></summary>
+<br/>
 <div align="center">
-
-### 🔤 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,php&theme=dark&perline=6" alt="Languages"/>
-
-<br/><br/>
-
-### 🧩 Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express&theme=dark&perline=6" alt="Frameworks"/>
-
-<br/><br/>
-
-### 🗄️ Services & Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,vercel&theme=dark&perline=6" alt="Services and Databases"/>
-
-<br/><br/>
-
-### 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman&theme=dark&perline=6" alt="Dev Tools"/>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 </div>
+<br/>
+</details>
+
+<details>
+<summary><b>🧩 Frameworks & Tools</b></summary>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🗄️ Services & Databases</b></summary>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🛠️ Development Tools</b></summary>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+<br/>
+</details>
 
 <br/>
 
@@ -104,53 +97,14 @@ const raafi = {
 
 ---
 
-<!-- Spotify Section -->
-<div align="center">
 
-## 🎵 Now Playing on Spotify
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d0d14&border_color=6366f1)](https://open.spotify.com)
-
-> *Coding is better with music 🎧*
-
-</div>
-
-<br/>
-
----
-
-<!-- Quote Section -->
-<div align="center">
-
-## 💬 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-
-</div>
-
-<br/>
-
----
 
 <!-- Activity Graph -->
 <div align="center">
 
 ## 📈 Contribution Graph
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRaafi123&theme=tokyo-night&bg_color=0d0d14&color=818cf8&line=6366f1&point=e2e8f0&area=true&area_color=6366f1&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- Random Dev Joke -->
-<div align="center">
-
-## 😂 Random Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230d0d14&textColor=%23e2e8f0&qColor=%23818cf8&aColor=%23a5b4fc&borderColor=%236366f1&codeColor=%23818cf8" alt="Dev Joke"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRaafi123&theme=tokyo-night&bg_color=0d0d14&color=818cf8&line=6366f1&point=e2e8f0&area=true&area_color=6366f1&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -172,38 +126,3 @@ const raafi = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&animation=twinkling" />
 
 </div>
-
-<!--
-╔══════════════════════════════════════════╗
-║  SETUP SPOTIFY                           ║
-║  → deploy novatorem ke vercel kamu       ║
-║  → connect spotify account              ║
-║  → ganti URL di badge spotify di atas   ║
-╚══════════════════════════════════════════╝
-
-╔══════════════════════════════════════════╗
-║  SETUP SNAKE (opsional)                  ║
-║  buat .github/workflows/snake.yml        ║
-║                                          ║
-║  name: snake                             ║
-║  on:                                     ║
-║    schedule:                             ║
-║      - cron: "0 */12 * * *"             ║
-║    workflow_dispatch:                    ║
-║  jobs:                                   ║
-║    generate:                             ║
-║      runs-on: ubuntu-latest              ║
-║      steps:                              ║
-║        - uses: Platane/snk@v3            ║
-║          with:                           ║
-║            github_user_name: MuhammadRaafi123 ║
-║            outputs: |                    ║
-║              dist/snake-dark.svg?palette=github-dark ║
-║        - uses: crazy-max/ghaction-github-pages@v3 ║
-║          with:                           ║
-║            target_branch: output        ║
-║            build_dir: dist              ║
-║          env:                            ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} ║
-╚══════════════════════════════════════════╝
--->
